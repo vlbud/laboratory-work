@@ -1,0 +1,53 @@
+type: output
+files:
+- name: main.py
+  visible: true
+  encrypted_text: nl5O+j/SAEucJHfpOoCwL0fonkmMaNhB0aJ6ho7yeaErj3LK0ikVKERtPOOQbS5ymo7+hszynzP0xpSrnnbn6asOtsc0wneihwv6IJwGe3abMKQ14Zq9/Fd7aVu+C3+c
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: tests/output.txt
+  visible: false
+  encrypted_text: 99FYpSzNTRwChsLmwqwJsAmGneiDq1jzFwtRu8O59aVNAeF2C28yhddNaUjv2U1z1cmWoe2wWqArpxFynD00jBD2idbNi/bEH61VzeOMCxv45LUX4z2A2GjJ5V/6UfJKDRjdlT/XuV6KSgVJIeNNAgYnxEiPE/0DvkltNZysfBwRpgjoSBAjKrdIhSLRS1QuCpIbnk168Hav67nAGc0JfkzxKeDcG9n5Q//2f41iDbzNvT+WEUCnk73UbRvVo3GDyNqwaqXVuFxIXPm91YTxrvDfwmMRUidnvJz2FViSJHyoVOoT73THqjUcLzZMSKKiiVX1mmkCrjS0PpIQa4fHpdHMUFAage+YH9KI3K0DYEnXK8qck2HcNwyrWYgfooYLoqgVayky8w57DqvwS0SKKHsKBPoJPmhuprO5CZPe5TA2k62cqNLqIo0qhR4WcThaFW12MpJ/8Ft4AllJXNYPVyaXusy0OKobs1oyUMPmybpL7g/cfyVjxmLaNZ1mGJvF8sZRx4/56adL0F/dWais7AbHQT6Q08s6gtzK88g7OWakavuJbCiT2nJKvckBAN9f6auiyMkgkALCEgKABi1Rq3Ec+aCaFumb66JWYGRah4w+a5nfGzECUXr16bC4SsrUdJDf0KjLdHIn49n7ypdo1kfnGKrBYQQSRpyCroIyPr99b+o/jdnGtZwtJeZlnLb2iJAXuZ7KKJcJrUGD/b2jUW/bm/fVZd4wu2ZGDV1iEdExQjesIoU/1HyszkB/Dvl06DlkxuIUeTzJ3jgk8VPN0LVDnDHVZhG88IH1jGfIOcYUmLK9Ac0K21TMyqxYVZ6lp8W9anQJ/2nGax3xtKJv/uemE5ju7HLLjajjFC1RF3oxUD2zdMkf/x4wSFh0QCIApZjMt0gXms/hjv1/O0BD/JtxM/q1a4YDuDw5Eh57tI9vdCLEfl+7G4Zz9s7JPoA4aS0yeSuiO1rMNg4UPq4rIlC4d4VKd+i317sUiDiksfS9WALYDPUzHLyl6T+KkBxye6J2Q7O8ld/XAdy4ZvQkqhZcjc8D2JOdk7WPw0Ftj7qTFmzkizEcUwDAavmA7NloO2V9+2fmGH9+XTbduNy1zyj+V4ml2A9xT+IdYyObrEPgdU6iNYYW4YpOioGNsUbjDyi1yX/bnEHC4WM1nsoNOUAs9oX0gPKZ/NdZXM+4kGZ/D/o1qA+BMYt/tQcUVjHwH4x9UsjNmLlYBczLuUqoGIRkjv+JRZstnuJKUI1dZuU=
+  learner_created: false
+status: Failed
+feedback:
+  message: Incorrect
+  time: "Fri, 04 Nov 2022 16:07:19 UTC"
+  expected: |
+    [{'bin': '0b0', 'dec': 0, 'hex': '0x0', 'oct': '0o0'},
+     {'bin': '0b1', 'dec': 1, 'hex': '0x1', 'oct': '0o1'},
+     {'bin': '0b10', 'dec': 2, 'hex': '0x2', 'oct': '0o2'},
+     {'bin': '0b11', 'dec': 3, 'hex': '0x3', 'oct': '0o3'},
+     {'bin': '0b100', 'dec': 4, 'hex': '0x4', 'oct': '0o4'},
+     {'bin': '0b101', 'dec': 5, 'hex': '0x5', 'oct': '0o5'},
+     {'bin': '0b110', 'dec': 6, 'hex': '0x6', 'oct': '0o6'},
+     {'bin': '0b111', 'dec': 7, 'hex': '0x7', 'oct': '0o7'},
+     {'bin': '0b1000', 'dec': 8, 'hex': '0x8', 'oct': '0o10'},
+     {'bin': '0b1001', 'dec': 9, 'hex': '0x9', 'oct': '0o11'},
+     {'bin': '0b1010', 'dec': 10, 'hex': '0xa', 'oct': '0o12'},
+     {'bin': '0b1011', 'dec': 11, 'hex': '0xb', 'oct': '0o13'},
+     {'bin': '0b1100', 'dec': 12, 'hex': '0xc', 'oct': '0o14'},
+     {'bin': '0b1101', 'dec': 13, 'hex': '0xd', 'oct': '0o15'},
+     {'bin': '0b1110', 'dec': 14, 'hex': '0xe', 'oct': '0o16'},
+     {'bin': '0b1111', 'dec': 15, 'hex': '0xf', 'oct': '0o17'}]
+  actual: |
+    {'bin': '0b0', 'dec': 0, 'hex': '0x0', 'oct': '0o0'}
+    {'bin': '0b1', 'dec': 1, 'hex': '0x1', 'oct': '0o1'}
+    {'bin': '0b10', 'dec': 2, 'hex': '0x2', 'oct': '0o2'}
+    {'bin': '0b11', 'dec': 3, 'hex': '0x3', 'oct': '0o3'}
+    {'bin': '0b100', 'dec': 4, 'hex': '0x4', 'oct': '0o4'}
+    {'bin': '0b101', 'dec': 5, 'hex': '0x5', 'oct': '0o5'}
+    {'bin': '0b110', 'dec': 6, 'hex': '0x6', 'oct': '0o6'}
+    {'bin': '0b111', 'dec': 7, 'hex': '0x7', 'oct': '0o7'}
+    {'bin': '0b1000', 'dec': 8, 'hex': '0x8', 'oct': '0o10'}
+    {'bin': '0b1001', 'dec': 9, 'hex': '0x9', 'oct': '0o11'}
+    {'bin': '0b1010', 'dec': 10, 'hex': '0xa', 'oct': '0o12'}
+    {'bin': '0b1011', 'dec': 11, 'hex': '0xb', 'oct': '0o13'}
+    {'bin': '0b1100', 'dec': 12, 'hex': '0xc', 'oct': '0o14'}
+    {'bin': '0b1101', 'dec': 13, 'hex': '0xd', 'oct': '0o15'}
+    {'bin': '0b1110', 'dec': 14, 'hex': '0xe', 'oct': '0o16'}
+    {'bin': '0b1111', 'dec': 15, 'hex': '0xf', 'oct': '0o17'}
+record: -1

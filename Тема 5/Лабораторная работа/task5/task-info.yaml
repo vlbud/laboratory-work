@@ -1,0 +1,15 @@
+type: theory
+files:
+- name: main.py
+  visible: true
+  encrypted_text: VsyPv95JwhoJsfT3F3BsbZjLY3JB3diSCFRbMTSAKWXxcBEp8sqs3juNfz0TeI/ooGfqnWKfhZBk/rDZqpMKYZj9JXcSpgy2VOY4fG2caspOUsyV51ar5el+Ab7xV5sBap1nd6VctyGs+2EKjvi2XyOxfPsCjE13usRR7xEWec9I0tzXE+/q7bngwHQb5CrhLs8tJr7cLSZHzE0cXjWjVZJNFU8JFoISWmjMbNeB2jc=
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Solved
+feedback:
+  time: "Fri, 04 Nov 2022 16:20:51 UTC"
+record: -1
+post_submission_on_open: true

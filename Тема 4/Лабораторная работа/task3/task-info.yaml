@@ -1,0 +1,19 @@
+type: output
+files:
+- name: main.py
+  visible: true
+  encrypted_text: y887VuKqNfUMAWcnI9REK2bbp++3COlRJEKrS2d0vsNXdXdTSs+J0QFtmiFBXlbZgxAQPiNpPSqhNukK2VLpt8jx+aOr9HT+FMzd7ZuXacPiD7QKJR6IC/FgVmUNPuII+NC1/OYdIUeea3L29VIa/1MGTUuRGfovmKhhC2MdJpf4TXT0WqX6YNxn3xO6dO5MgrkT6Rg8Rq/kF0wjSQyXUQoklEtpwjvO/2b80jpzKoCxeU4ZfjhUWiiI4jvG4vDnSEYYgZcysJNj0EPD6+S1B0v6w0vDsjsK7ek/bwJUQOa1lI9Kb5qev6ubNwmg7DTBFBmilSNBsHhaDndpFfX3AKKgdNbWerkqX33NU7BSLzpm9ok0UY7AEEPRTSStd6e9qykKjxNcEEgxfyiYnTbd4NZr/yL8ZEAQbX5YrVnyM4I=
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: tests/output.txt
+  visible: false
+  encrypted_text: W+1Ysdo0y+vHO7LEZ8GQZ1G4HBIRsCtYY+bYh0yMcFLhaDqFvEeFsEcBg3rvEs7t
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 04 Nov 2022 14:12:48 UTC"
+record: -1
